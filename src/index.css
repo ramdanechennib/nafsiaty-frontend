@@ -1,5 +1,6 @@
 /* frontend/src/index.css */
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -101,11 +102,6 @@ button {
   font-size: 1.2rem;
   color: var(--secondary-color);
 }
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 36c2cbc (fix tailwind v4 postcss config)
 
 /* تنسيق شريط التمرير المخصص */
 @layer utilities {
