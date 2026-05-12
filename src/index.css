@@ -102,6 +102,10 @@ button {
   color: var(--secondary-color);
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 36c2cbc (fix tailwind v4 postcss config)
 
 /* تنسيق شريط التمرير المخصص */
 @layer utilities {
